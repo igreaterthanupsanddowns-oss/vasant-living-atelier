@@ -347,7 +347,7 @@ function App() {
           <div
             className="scene-backdrop"
             style={{
-              backgroundImage: `linear-gradient(180deg, rgba(32,24,15,0.16), rgba(18,12,9,0.2)), url('${'/reference-showroom-reference.jpg'}')`,
+              backgroundImage: `linear-gradient(180deg, rgba(32,24,15,0.16), rgba(18,12,9,0.2)), url('/reference-showroom-reference.svg')`,
             }}
           />
 
